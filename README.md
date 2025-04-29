@@ -6,7 +6,7 @@
 
 ![Banner](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)
 ## About Me
-Experienced Software Developer with 2.5 years of expertise, proficient in Java, Spring Boot, React, and Hibernate. Possesses a strong grasp of database technologies like MySQL and PostgreSQL. Skilled in Restful Web Services, debugging, and utilizing SDLC methodologies. Seeking opportunities to contribute to innovative projects and deliver scalable solutions. Committed to solving complex problems through continuous learning.
+Experienced Software Developer with 3.5 years of expertise, proficient in Java, Spring Boot, React, and Hibernate. Possesses a strong grasp of database technologies like MySQL and PostgreSQL. Skilled in Restful Web Services, debugging, and utilizing SDLC methodologies. Seeking opportunities to contribute to innovative projects and deliver scalable solutions. Committed to solving complex problems through continuous learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prasad-dheb) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Prasad__17) 
